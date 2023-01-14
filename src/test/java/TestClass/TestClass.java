@@ -131,7 +131,7 @@ public class TestClass extends UtilClass
 //		   }
 	        
 	        @AfterClass
-			   public void closedBrowser()
+			   public void closedBrowserWithNewChanges()
 			   {
 	        	  //driver.quit();
 			   }    
